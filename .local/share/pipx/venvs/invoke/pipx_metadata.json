@@ -1,0 +1,40 @@
+{
+    "injected_packages": {},
+    "main_package": {
+        "app_paths": [
+            {
+                "__Path__": "/home/ubuntu/.local/share/pipx/venvs/invoke/bin/inv",
+                "__type__": "Path"
+            },
+            {
+                "__Path__": "/home/ubuntu/.local/share/pipx/venvs/invoke/bin/invoke",
+                "__type__": "Path"
+            }
+        ],
+        "app_paths_of_dependencies": {},
+        "apps": [
+            "inv",
+            "invoke"
+        ],
+        "apps_of_dependencies": [],
+        "include_apps": true,
+        "include_dependencies": false,
+        "man_pages": [],
+        "man_pages_of_dependencies": [],
+        "man_paths": [],
+        "man_paths_of_dependencies": {},
+        "package": "invoke",
+        "package_or_url": "invoke==2.2.0",
+        "package_version": "2.2.0",
+        "pinned": false,
+        "pip_args": [],
+        "suffix": ""
+    },
+    "pipx_metadata_version": "0.5",
+    "python_version": "Python 3.12.3",
+    "source_interpreter": {
+        "__Path__": "/usr/bin/python3.12",
+        "__type__": "Path"
+    },
+    "venv_args": []
+}

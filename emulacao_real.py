@@ -9,7 +9,7 @@ import os
 PROTOCOLOS = ["MPEG-DASH", "Apple-HLS"]
 CHUNK_SIZES = [2, 6]
 CONDICOES_WAN = ["Estavel", "Oscilante"]
-REPETICOES = 15
+REPETICOES = 30
 
 # IP Local da sua instância onde o Apache está rodando (localhost ou 127.0.0.1)
 URL_BASE = "http://127.0.0.1/streaming"
